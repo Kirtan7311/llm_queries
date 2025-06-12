@@ -125,7 +125,7 @@ To replicate the analysis, follow these steps:
     Download `household_power_consumption.txt` from the [UCI Household Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption) and place it in the root directory of this repository.
 3.  **Install dependencies:**
     ```bash
-    pip install pandas matplotlib seaborn jupyter
+    pip install pandas matplotlib seaborn jupyter groq
     ```
 4.  **Run the Jupyter Notebook:**
     ```bash
